@@ -1,0 +1,3 @@
+zip file 
+expects to be extraxted when container is created 
+will be added by ADD option in docker to be saved in "/tmp" in this example 

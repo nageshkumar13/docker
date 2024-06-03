@@ -1,0 +1,3 @@
+some sample text 
+just to check 
+this file will be copied in dockerfile using COPY in docker 
